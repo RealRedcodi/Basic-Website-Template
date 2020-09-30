@@ -10,5 +10,8 @@ C:.
 |   TreeOld.txt
 |   
 \---img
+        Loser.jpeg
+        Mech Pencil.png
+        Pencil.png
         Winner.PNG
         
