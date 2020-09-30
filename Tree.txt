@@ -10,6 +10,5 @@ C:.
 |   TreeOld.txt
 |   
 \---img
-        Unused Images.zip
         Winner.PNG
         
