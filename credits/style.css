@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans&display=swap');
+
+    p{
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    h1{
+        font-family: 'Lato', sans-serif;
+    }
+
+    body {
+        background-color: rgb(0, 0, 0);
+        color: white;
+    }
