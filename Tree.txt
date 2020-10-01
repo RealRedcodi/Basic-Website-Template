@@ -27,5 +27,6 @@ C:.
     |       Old man yes.PNG
     |       
     \---Wiki
+            bwt.png
             index.html
             
