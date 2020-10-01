@@ -9,9 +9,18 @@ C:.
 |   Tree.txt
 |   TreeOld.txt
 |   
++---credits
+|       index.html
+|       style.css
+|       
 \---img
-        Loser.jpeg
-        Mech Pencil.png
-        Pencil.png
-        Winner.PNG
-        
+    |   Loser.jpeg
+    |   Mech Pencil.png
+    |   Pencil.png
+    |   Winner.PNG
+    |   
+    \---Misc
+            hot dog.jpg
+            Mega Hot Dog.jpg
+            Old man yes.PNG
+            
