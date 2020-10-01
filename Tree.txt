@@ -28,5 +28,6 @@ C:.
     |       
     \---Wiki
             bwt.png
+            creditredcodi.png
             index.html
             
