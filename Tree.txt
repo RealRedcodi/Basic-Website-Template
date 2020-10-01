@@ -20,9 +20,12 @@ C:.
     |   Pencil.png
     |   Winner.PNG
     |   
-    \---Misc
-            hot dog.jpg
+    +---Misc
+    |       hot dog.jpg
+    |       index.html
+    |       Mega Hot Dog.jpg
+    |       Old man yes.PNG
+    |       
+    \---Wiki
             index.html
-            Mega Hot Dog.jpg
-            Old man yes.PNG
             
