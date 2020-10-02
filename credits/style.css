@@ -9,6 +9,10 @@
     }
 
     body {
-        background-color: rgb(0, 0, 0);
+        background-color: #2c2f33;
         color: white;
+    }
+
+    a {
+        color: #7289da;
     }
