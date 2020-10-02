@@ -13,21 +13,24 @@ C:.
 |       index.html
 |       style.css
 |       
-\---img
-    |   index.html
-    |   Loser.jpeg
-    |   Mech Pencil.png
-    |   Pencil.png
-    |   Winner.PNG
-    |   
-    +---Misc
-    |       hot dog.jpg
-    |       index.html
-    |       Mega Hot Dog.jpg
-    |       Old man yes.PNG
-    |       
-    \---Wiki
-            bwt.png
-            creditredcodi.png
-            index.html
-            
++---img
+|   |   index.html
+|   |   Loser.jpeg
+|   |   Mech Pencil.png
+|   |   Pencil.png
+|   |   Winner.PNG
+|   |   
+|   +---Misc
+|   |       hot dog.jpg
+|   |       index.html
+|   |       Mega Hot Dog.jpg
+|   |       Old man yes.PNG
+|   |       
+|   \---Wiki
+|           bwt.png
+|           creditredcodi.png
+|           index.html
+|           
+\---test
+        index.html
+        
