@@ -1,7 +1,6 @@
 C:.
 |   .gitattributes
 |   .gitignore
-|   Ideas.html
 |   index.html
 |   LICENSE
 |   maketree.bat
@@ -13,6 +12,9 @@ C:.
 +---credits
 |       index.html
 |       style.css
+|       
++---Drawio
+|       Ideas.html
 |       
 +---img
 |   |   index.html
