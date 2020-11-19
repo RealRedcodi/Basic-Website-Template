@@ -1,6 +1,7 @@
 C:.
 |   .gitattributes
 |   .gitignore
+|   Ideas.html
 |   index.html
 |   LICENSE
 |   maketree.bat
